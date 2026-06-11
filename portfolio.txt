@@ -1,0 +1,115 @@
+# STUDENT PORTFOLIO
+
+## Personal Information
+
+**Name:** Deshna Saanvi M
+
+**SRN:** R25EJ027
+
+**Program:** B.Tech
+
+**Year:** First Year
+
+---
+
+## Career Objective
+
+To build a strong foundation in software development by continuously learning programming concepts and applying them through practical projects. I aim to enhance my problem-solving abilities and contribute to innovative technological solutions while growing as a software engineer.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* C Programming
+* Python
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+### Core Areas
+
+* Data Structures Basics
+* Problem Solving
+* Software Development Fundamentals
+* Version Control
+
+---
+
+## Certifications
+
+### IBM Python for Data Science Certificate
+
+Successfully completed the IBM Python course, gaining knowledge in Python programming, data handling, and fundamental concepts of data science.
+
+---
+
+## Mini Project Details
+
+### Project Title
+
+**ASCII Graphics Editor**
+
+### Project Description
+
+The ASCII Graphics Editor is a console-based graphics application developed in C. It enables users to create and manipulate graphical shapes using ASCII characters on a text-based canvas. The project demonstrates the implementation of data structures, file handling, and graphics concepts in a command-line environment.
+
+### Key Features
+
+* Create and edit ASCII-based shapes
+* Draw lines, rectangles, and other graphical elements
+* Save and load drawings from files
+* Undo and manage editing operations
+* Interactive command-based interface
+
+### Learning Outcomes
+
+* Strengthened C programming skills
+* Applied file handling techniques
+* Improved understanding of data structures
+* Enhanced problem-solving and debugging abilities
+* Learned project organization using Git and GitHub
+
+---
+
+## Academic Projects
+
+### Student Performance Prediction System
+
+Developed a Python-based project that analyzes student data and predicts academic performance using machine learning techniques and data analysis concepts.
+
+---
+
+## Strengths
+
+* Quick Learner
+* Creative Thinking
+* Problem-Solving Skills
+* Team Collaboration
+* Adaptability
+* Effective Communication
+
+---
+
+## Future Goals
+
+* Master Data Structures and Algorithms.
+* Strengthen skills in Python and C programming.
+* Explore Machine Learning and Artificial Intelligence.
+* Contribute to open-source projects.
+* Build innovative software solutions and real-world applications.
+
+---
+
+## Declaration
+
+I hereby declare that the information provided in this portfolio is true and accurately reflects my academic background, certifications, skills, and project experience.
+
+**Name:** Deshna Saanvi M
+
+**SRN:** R25EJ027
